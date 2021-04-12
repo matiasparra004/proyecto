@@ -1,0 +1,18 @@
+
+#home h1{
+    background-color: rgb(40, 168, 168);
+    color: black;
+    padding: 10px;
+    font-family: Oswald;
+    margin-bottom: 20px;
+    text-align: center;  
+}
+main #home p {
+    color: black;
+    font-family: Dosis;
+    text-align: justify;
+    line-height: 1.5;
+    text-indent: 1cm;
+    font-weight: bolder;
+    width: 100%;
+}

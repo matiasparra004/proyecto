@@ -1,0 +1,37 @@
+main #qSomos {
+    padding: 20px;
+    width: 90%;
+    margin: 0 auto;;
+    display: flex;
+    flex-flow: row wrap;
+}
+main #qSomos h2 {
+    color: black;
+    font-family: Oswald;
+    margin-bottom: 20px;
+    width: 100%;
+}
+main #qSomos p {
+    color: black;
+    font-family: Dosis;
+    text-align: justify;
+    line-height: 1.5;
+    text-indent: 1cm;
+    font-weight: bolder;
+    width: 100%;
+    margin-bottom: 20px;
+}
+main #qSomos figure {
+    width: 45%;
+}
+main #qSomos figure img{
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 5px 5px gray;
+}
+main #qSomos figure img:hover{
+    box-shadow: 5px 5px red;
+}
+main #qSomos div#labor{
+    width: 40%;
+}

@@ -1,0 +1,22 @@
+main #Servicios {
+    padding: 20px;
+    width: 90%;
+    margin: 0 auto;;
+    display: flex;
+    flex-flow: row wrap;
+}
+main #Servicios h2 {
+    color: black;
+    padding: 10px;
+    font-family: Oswald;
+    width: 100%;
+}
+main #Servicios p {
+    color: black;
+    font-family: Dosis;
+    text-align: justify;
+    line-height: 1.5;
+    text-indent: 1cm;
+    font-weight: bolder;
+    width: 100%;
+}

@@ -1,0 +1,48 @@
+main #Adoptar {
+    padding: 20px;
+    width: 90%;
+    margin: 0 auto;;
+    display: flex;
+    flex-flow: row wrap;
+}
+main #Adoptar h2 {
+    color: black;
+    font-family: Oswald;
+    margin-bottom: 20px;
+    width: 100%;
+}
+main #Adoptar p {
+    color: black;
+    font-family: Dosis;
+    text-align: justify;
+    line-height: 1.5;
+    text-indent: 1cm;
+    font-weight: bolder;
+    width: 100%;
+}
+main #Adoptar figure {
+    width: 45%;
+}
+#Adoptar figure iframe{
+    width: 45%;
+    border-radius: 20px;
+    box-shadow: 5px 5px gray;
+}
+
+#Adoptar figure iframe:hover{
+    box-shadow: 5px 5px red;
+}
+main #Adoptar h3 {
+    color: black;
+    font-family: Oswald;
+    margin-bottom: 20px;
+    width: 100%;
+
+}
+main #Adoptar u {
+    color: black;
+    font-family: Oswald;
+    margin-bottom: 20px;
+    width: 100%;
+
+}
